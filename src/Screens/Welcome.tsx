@@ -59,7 +59,6 @@ const Welcome = () => {
 };
 
 export default Welcome;
-console.log(sc(22));
 
 const styles = StyleSheet.create({
   container: {

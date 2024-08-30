@@ -8,7 +8,6 @@ const APPWRITE_PROJECT_ID: string = APPWRITE.PROJECT_ID;
 
 type CreatUserAccount = {
     email: string;
-    phone: string;
     password?: string;
     name: string;
 }
